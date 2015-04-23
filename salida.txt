@@ -1,0 +1,19 @@
+Ingrese el numero: 42
+Es par!
+
+Ingresar otro? S/N: s
+
+Ingrese el numero: 12378
+Es par!
+
+Ingresar otro? S/N: s
+
+Ingrese el numero: 42521
+Es impar!
+
+Ingresar otro? S/N: s
+
+Ingrese el numero: 33
+Es impar!
+
+Ingresar otro? S/N: n
